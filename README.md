@@ -125,3 +125,10 @@ To showcase the functionality of the application, I have developed two distinct 
 2. **Consumer Project:**
    The consumer project complements the aforementioned producer by retrieving messages from the Kafka topic. The retrieved messages are then persisted into a DynamoDB database. This dual-project configuration not only demonstrates the integration of Spring Boot Reactive with Kafka for real-time data processing but also showcases the seamless storage of this data in a DynamoDB database, emphasizing end-to-end functionality within the application.
 
+
+
+
+**Kafka Installation on windows 11**
+https://github.com/code-with-malik/Kafka/blob/main/Install%20Kafka%20on%20windows.md
+   
+
